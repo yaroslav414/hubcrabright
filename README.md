@@ -142,12 +142,12 @@
 
 <!--
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
--->
+
 
 <a href="https://github.com/PrinceGoblinTech?tab=following"><img src="https://img.shields.io/github/stars/PrinceGoblinTech?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/PrinceGoblinTech?tab=followers"><img src="https://img.shields.io/github/followers/PrinceGoblinTech?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
-
+-->
 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
